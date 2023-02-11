@@ -1,1 +1,1 @@
-# Pairs-Trading-Model
+# Pairs Trading Model
